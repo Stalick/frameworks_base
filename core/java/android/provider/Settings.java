@@ -5271,7 +5271,14 @@ public final class Settings {
          * @hide
          */
         public static final String TORCH_POWER_BUTTON_GESTURE = "torch_power_button_gesture";
-
+        
+        /**
+         * Whether to hide navbar pill and keyboard space.
+         * Default 0.
+         * @hide
+         */
+        public static final String FULLSCREEN_GESTURES = "fullscreen_gestures";
+        
         /** Volume rocker music control
          * @hide
          */
